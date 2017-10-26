@@ -16,6 +16,6 @@ class TokenNotPresent extends InvalidArgumentException
      */
     public function __construct()
     {
-        parent::__construct('You MUST provide a token');
+        parent::__construct('You MUST provide a token.');
     }
 }
