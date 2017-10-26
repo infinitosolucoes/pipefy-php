@@ -14,7 +14,7 @@ class TokenNotPresent extends InvalidArgumentException
     /**
      * TokenNotPresent constructor.
      */
-    public function __construct($resource_name)
+    public function __construct()
     {
         parent::__construct('You MUST provide a token');
     }

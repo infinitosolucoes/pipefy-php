@@ -2,7 +2,7 @@
 
 namespace PipefyPHP;
 
-use Exception\TokenNotPresent;
+use PipefyPHP\Exception\TokenNotPresent;
 
 /**
  * The Pipefy client.
