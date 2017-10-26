@@ -1,0 +1,13 @@
+{
+    "name": "pedrommone/pipefy-php",
+    "description": "Pipefy PHP Implementation",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pedro Maia",
+            "email": "pedro@pedromm.com"
+        }
+    ],
+    "require": {}
+}
