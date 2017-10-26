@@ -10,7 +10,7 @@ use Exception\TokenNotPresent;
  *
  * @package PipefyPHP
  */
-class PipefyClient
+class Pipefy
 {
     /**
      * @var array
